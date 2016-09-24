@@ -1,9 +1,9 @@
 
-<h1 id="insane-coin-wiki"><span style="font-size:72px;">Insane Coin Wiki</span></h1>
+<h1 id="insane-coin-wiki"><span style="font-size:72px;">Insane Coin </span></h1>
 
 <p>&nbsp;</p>
 
-<p><em>Welcome to the wiki of the coin formally known as trumpinsane, and still known as trumpinsane. But it is getting a coming-of-age christening to celebrate whatever is insane and out of the ordinary.</em> </p>
+<p><em>Welcome to the repo of the coin formally known as trumpinsane, and still known as trumpinsane. But it is getting a coming-of-age christening to celebrate whatever is insane and out of the ordinary.</em> </p>
 
 
 
@@ -16,7 +16,7 @@
 
 <p>&nbsp;</p>
 
-<hr>
+
 
 <p><div class="toc">
 <ul>
